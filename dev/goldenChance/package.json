@@ -1,0 +1,30 @@
+{
+  "name": "sodonshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1",
+    "postcss-clean": "^1.0.3",
+    "run-sequence": "^2.0.0",
+    "uikit": "3.0.0-rc.19",
+    "swiper": "latest"
+  },
+  "dependencies": {
+    "autonumeric": "^4.6.0",
+    "perfect-scrollbar": "^1.5.0",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
